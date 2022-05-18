@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-image: url(https://i.pinimg.com/550x/84/c6/b0/84c6b07a5dd4771b076c1a686292807b.jpg);
+    background-size: cover;
+   width: 100%;
+}
+h1 {
+    
+margin-left: 200px;
+    color: rgb(196, 101, 101);
+    
+    text-shadow: 0 0 10px rgba(195, 151, 151, 0.5);
+}
+form {
+    width: 300px;
+    height: 400px;
+    background-color: rgba(184, 189, 36, 0.628);
+    margin-left: 100px;
+    padding:30px;
+    text-align: center;
+    border-radius: 30px;
+}
